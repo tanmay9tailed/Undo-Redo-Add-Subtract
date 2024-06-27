@@ -40,7 +40,7 @@ const ProgressApp = () => {
   };
 
   return (
-    <div className="bg-slate-800 shadow-2xl shadow-slate-800 h-full sm:h-1/2 xs:w-full w-full sm:w-3/4 md:w-3/4 xl:w-2/4 rounded-xl absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] py-20">
+    <div className="bg-slate-800 shadow-2xl shadow-slate-800 h-full sm:h-1/2 xs:w-full w-full sm:w-3/4 md:w-3/4 xl:w-2/4 sm:rounded-xl absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] py-20">
       <div className="flex flex-col items-center space-y-6">
         <div className="flex space-x-4 mb-6">
           <button
